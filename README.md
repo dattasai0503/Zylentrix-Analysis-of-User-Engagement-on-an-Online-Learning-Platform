@@ -36,28 +36,30 @@ This project aims to analyze learner engagement data using Exploratory Data Anal
 
 ## QUESTION 1: What is the overall average completion rate across courses?
 - Overall Average Completion Rate: 54.78%
-![alt text]("https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png")
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png)
 
 ## QUESTION 2: Which course has the highest and lowest average engagement time?
 - Course with Highest Average Engagement Time:
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%202.png)
 ## QUESTION 3a: How does engagement differ by age group 
-- age_group_engagement Age_Group
+- age_group_engagement:
 
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%203a.png)
+
 ## QUESTION 3b: How does engagement differ by Location
--
-![Image](<img width="451" alt="Image" src="hhttps://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
+-location_engagement
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%203b.png)
 ## QUESTION 4: What is the average feedback rating per course?
 -
-![Image](<img width="451" alt="Image" src="hhttps://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%204.png)
+
 ## QUESTION 5: Is there a correlation between completion rate and feedback rating?
 - 
-![Image](<img width="451" alt="Image" src="hhttps://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%205.png)
+
 ## QUESTION 6: Identify top 3 student segments based on engagement and satisfaction.
 -
-![Image](<img width="451" alt="Image" src="hhttps://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
-
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%206.png)
 
 
 ## Dataset Description
@@ -72,5 +74,3 @@ https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Onli
 
 - Development Environment: Jupyter Notebook
 - Data cleaning & preprocessing: Excel , Python
-
-![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%202.png)
