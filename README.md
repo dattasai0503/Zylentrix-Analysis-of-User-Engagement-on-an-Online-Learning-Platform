@@ -71,3 +71,5 @@ https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Onli
 
 - Development Environment: Jupyter Notebook
 - Data cleaning & preprocessing: Excel , Python
+
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%202.png)
