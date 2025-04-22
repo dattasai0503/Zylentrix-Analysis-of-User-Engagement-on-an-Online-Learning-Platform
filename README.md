@@ -47,18 +47,18 @@ This project aims to analyze learner engagement data using Exploratory Data Anal
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%203a.png)
 
 ## QUESTION 3b: How does engagement differ by Location
--location_engagement
+- location_engagement:
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%203b.png)
 ## QUESTION 4: What is the average feedback rating per course?
--
+- Average Rating by Course:
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%204.png)
 
 ## QUESTION 5: Is there a correlation between completion rate and feedback rating?
-- 
+- Correlation between Completion % and Rating: -0.05
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%205.png)
 
 ## QUESTION 6: Identify top 3 student segments based on engagement and satisfaction.
--
+- Top 3 Student Segments (Sorted by Rating, Time Spent, and Completion Percentage):
 ![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%206.png)
 
 
