@@ -36,14 +36,15 @@ This project aims to analyze learner engagement data using Exploratory Data Anal
 
 ## QUESTION 1: What is the overall average completion rate across courses?
 - Overall Average Completion Rate: 54.78%
-![Image](<img width="451" alt="Image" src="https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
+![alt text]("https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png")
 
 ## QUESTION 2: Which course has the highest and lowest average engagement time?
 - Course with Highest Average Engagement Time:
-![Image](<img width="451" alt="Image" src="https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%202.png" />)
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%202.png)
 ## QUESTION 3a: How does engagement differ by age group 
--
-![Image](<img width="451" alt="Image" src="hhttps://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
+- age_group_engagement Age_Group
+
+![alt text](https://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%203a.png)
 ## QUESTION 3b: How does engagement differ by Location
 -
 ![Image](<img width="451" alt="Image" src="hhttps://github.com/dattasai0503/Zylentrix-Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Outputs%20with%20Vizuals/QUESTION%201.png" />)
